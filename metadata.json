@@ -1,0 +1,6 @@
+{
+  "name": "AI Construction Cost Estimator",
+  "description": "An expert chartered civil quantity surveyor and dynamic Indian construction cost estimator powered by Gemini API.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
